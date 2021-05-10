@@ -1,7 +1,7 @@
 # yoxknee
 # Yolo Object-Detection Dataset Knee
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-Yolo.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-LabelImg.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
 
 In this repo, I've trained an object detection model on a custom dataset 
 
