@@ -5,9 +5,9 @@
 
 In this repo, I've trained an object detection model on a custom dataset 
 
-Original Dataset available at [here](https://github.com/Shenggan/BCCD_Dataset).
+Original Dataset available at [here](https://github.com/).
 
-<img src="https://github.com/bala-codes/Yolo-v5_Object-Detection_Blood_Cell_Count/blob/master/imgs/Dependency_files.PNG" width="100%">
+<img src="https://raw.githubusercontent.com/Tommy-Ngx/yoxknee/main/Knee53.jpg" width="100%">
 
 
 Excerpts :
