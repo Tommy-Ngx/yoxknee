@@ -7,7 +7,7 @@ In this repo, I've trained an object detection model on a custom dataset
 
 Original Dataset available at [here](https://github.com/).
 
-<img src="https://raw.githubusercontent.com/Tommy-Ngx/yoxknee/main/Knee53.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/Tommy-Ngx/yoxknee/main/Knee53.jpg" width="30%">
 
 
 Excerpts :
